@@ -1,0 +1,8 @@
+prefix=/workspace/hans_ws/devel
+
+Name: elfin_kinematic_solver
+Description: Description of elfin_kinematic_solver
+Version: 0.0.0
+Cflags: -I/workspace/hans_ws/src/elfin_robot/elfin_kinematic_solver/include
+Libs: -L${prefix}/lib -lelfin_kinematic_solver
+Requires: roscpp
