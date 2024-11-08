@@ -1,4 +1,4 @@
-import torch
+import torch #type: ignore
 import cv2
 import gxipy as gx
 
