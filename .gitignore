@@ -1,3 +1,5 @@
 *.pt
 hans_ws/build/
 hans_ws/devel/
+hans_ws/.vscode/
+hans_ws/log/
